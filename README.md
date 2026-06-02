@@ -1,6 +1,6 @@
 # Hi, I'm Ismeet Kachhap 👋
 
-### Software Engineer • Full-Stack Developer • Open Source Enthusiast
+### Software Engineer • Open Source Enthusiast
 
 I build fast, scalable, and developer-friendly applications across the web stack. My interests include backend engineering, cloud infrastructure, Linux systems, developer tooling, and modern web technologies.
 
