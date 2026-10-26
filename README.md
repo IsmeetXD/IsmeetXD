@@ -7,7 +7,7 @@ I build fast, scalable, and developer-friendly applications across the web stack
 ## 🌐 Connect With Me
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IsmeetXD)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IsmeetKachhapXD)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IsmeetXD)
 
 
 ---
